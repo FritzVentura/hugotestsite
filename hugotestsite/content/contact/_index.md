@@ -9,7 +9,7 @@ date: 2018-01-30T09:22:56+01:00
 
 Her er der kontaktoplysninger
 
-![Billede af minimalistisk Batman](../imgs/batman2.png)
+![Billede af minimalistisk Batman](../imgs/batman2.jpg)
 
 email: fk.kofoed@gmail.com
 
