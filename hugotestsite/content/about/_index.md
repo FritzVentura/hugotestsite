@@ -11,17 +11,19 @@ draft: true
 
 Her er et billede af Batman hvis den ligger i en anden mappe.
 
+<!-- Billede i anden mappe /imgs -->
 ![Billede 1 af Batman](../imgs/batman1.png)
 
 
 Her er et billede af Batman hvis den ligger i samme mappe.
 
+<!-- Billede i samme mappe -->
 ![Billede 2 af Batman](/batman1.png)
 
 
+<!-- Billede med et link -->
 Her er samme billede med et link tilknyttet
 [![Billede af Batman](../imgs/batman1.png)](https://ekstrabladet.dk/)
-
 
 
 ## H2 overskrift
