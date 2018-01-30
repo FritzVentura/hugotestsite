@@ -1,3 +1,6 @@
 [submodule "temaer/Cocoa"]
 	path = temaer/Cocoa
 	url = https://github.com/nishanths/cocoa-hugo-theme.git
+[submodule "hugotestsite/themes/cocoa"]
+	path = hugotestsite/themes/cocoa
+	url = https://github.com/nishanths/cocoa-hugo-theme.git
