@@ -11,16 +11,17 @@ draft: true
 
 Her er et billede af Batman hvis den ligger i en anden mappe.
 
-![Billede af Batman](../imgs/batman1.png)
+![Billede 1 af Batman](../imgs/batman1.png)
 
 
-Her er et billede af Batman hvis den ligger i en anden mappe.
+Her er et billede af Batman hvis den ligger i samme mappe.
 
-![Billede af Batman](/batman1.png)
+![Billede 2 af Batman](/batman1.png)
 
 
 Her er samme billede med et link tilknyttet
-[!Billede af Batman](../imgs/batman1)](https://ekstrabladet.dk/)
+[![Billede af Batman](../imgs/batman1.png)](https://ekstrabladet.dk/)
+
 
 
 ## H2 overskrift
@@ -29,7 +30,8 @@ Her er samme billede med et link tilknyttet
 
 Her står der lidt om personen, der har denne side.
 
-![Billede af Batman](../imgs/batman2.jpg)
+![Billede 3 af Batman](../imgs/batman2.jpg)
+
 
 
 ### H3 overskrift
@@ -41,11 +43,21 @@ Her står der lidt om personen, der har denne side.
 ![Billede af Batman](../imgs/vand.png)
 
 
+
 ## Unordered List
 
-* Unordered List
-    * Punkt 1
-    * Punkt 2
+* Punkt1
+    * Underpunkt 1
+    * Underpunkt 2
+
 
 ##  Ordered List
 
+1. Punkt1
+    * Underpunkt 1 
+    * Underpunkt 2
+    
+    
+2. Punkt 2
+    * Underpunkt 3
+    * Underpunkt 4
