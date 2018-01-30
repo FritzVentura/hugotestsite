@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://hugotestsite.flkdesign.com/blog/</loc>
+    <lastmod>2018-01-30T09:42:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugotestsite.flkdesign.com/contact/</loc>
+    <lastmod>2018-01-30T09:22:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugotestsite.flkdesign.com/about/</loc>
+    <lastmod>2018-01-30T09:21:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugotestsite.flkdesign.com/portfolio/case3/</loc>
+    <lastmod>2018-01-30T09:17:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugotestsite.flkdesign.com/portfolio/case2/</loc>
+    <lastmod>2018-01-30T08:59:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugotestsite.flkdesign.com/portfolio/case1/</loc>
+    <lastmod>2018-01-30T08:59:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugotestsite.flkdesign.com/blog/blogpost2/</loc>
+    <lastmod>2018-01-29T11:38:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugotestsite.flkdesign.com/blog/blogpost1/</loc>
+    <lastmod>2018-01-29T11:27:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugotestsite.flkdesign.com/</loc>
+    <lastmod>2018-01-29T11:18:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugotestsite.flkdesign.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugotestsite.flkdesign.com/portfolio/</loc>
+    <lastmod>2018-01-30T09:17:44+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugotestsite.flkdesign.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_Index on My New Hugo Site</title>
+    <link>http://hugotestsite.flkdesign.com/</link>
+    <description>Recent content in _Index on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jan 2018 11:18:33 +0100</lastBuildDate>
+    
+	<atom:link href="http://hugotestsite.flkdesign.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Case3</title>
+      <link>http://hugotestsite.flkdesign.com/portfolio/case3/</link>
+      <pubDate>Tue, 30 Jan 2018 09:17:44 +0100</pubDate>
+      
+      <guid>http://hugotestsite.flkdesign.com/portfolio/case3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Case2</title>
+      <link>http://hugotestsite.flkdesign.com/portfolio/case2/</link>
+      <pubDate>Tue, 30 Jan 2018 08:59:34 +0100</pubDate>
+      
+      <guid>http://hugotestsite.flkdesign.com/portfolio/case2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Case1</title>
+      <link>http://hugotestsite.flkdesign.com/portfolio/case1/</link>
+      <pubDate>Tue, 30 Jan 2018 08:59:21 +0100</pubDate>
+      
+      <guid>http://hugotestsite.flkdesign.com/portfolio/case1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blogpost2</title>
+      <link>http://hugotestsite.flkdesign.com/blog/blogpost2/</link>
+      <pubDate>Mon, 29 Jan 2018 11:38:53 +0100</pubDate>
+      
+      <guid>http://hugotestsite.flkdesign.com/blog/blogpost2/</guid>
+      <description>Dette er blogpost 2</description>
+    </item>
+    
+    <item>
+      <title>Blogpost 1</title>
+      <link>http://hugotestsite.flkdesign.com/blog/blogpost1/</link>
+      <pubDate>Mon, 29 Jan 2018 11:27:07 +0100</pubDate>
+      
+      <guid>http://hugotestsite.flkdesign.com/blog/blogpost1/</guid>
+      <description>Dette er blogpost 1</description>
+    </item>
+    
+  </channel>
+</rss>

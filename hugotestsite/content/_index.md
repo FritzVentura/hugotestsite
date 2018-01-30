@@ -1,7 +1,6 @@
 ---
 title: "_Index"
 date: 2018-01-29T11:18:33+01:00
-draft: true
 ---
 
 # H1'ere defineres med et '#'
